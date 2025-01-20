@@ -35,4 +35,4 @@ This project provides an in-depth analysis of the ICC T20 World Cup 2024, focusi
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/<your-username>/<repository-name>.git
+(https://github.com/Deepakkumarmanikandan/T20WC2024-DataViz/tree/main)
